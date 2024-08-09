@@ -62,8 +62,11 @@ section {
 background: red;    
 }
 
-.clock {
+#clock {
+    width: 150px;
+    height: 100px;
     font-size: 2em;
     text-align: center;
     margin-top: 1em;
+    color: black;
 }
